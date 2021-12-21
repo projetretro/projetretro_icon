@@ -11,5 +11,5 @@ The icon is composed of the following elements:
 ## Notice
 Current design use [Openmoji's](https://openmoji.org) [Gear icon](https://openmoji.org/library/#search=gear&emoji=2699) in SVG black
 
-##License
-See license
+## License
+See [license](https://github.com/projetretro/projetretro_icon/blob/main/LICENSE.md)
